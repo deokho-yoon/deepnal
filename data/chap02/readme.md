@@ -9,3 +9,6 @@
 캐글에 로그인된 상태에서 위의 경로에 접근해
 'Download (771 KB)' 버튼을 클릭하면 predicting-a-pulsar-star.zip 압축파일을 다운로드받을 수 있고
 압축을 풀면 pulsar_stars.csv 파일을 얻을 수 있습니다.
+
+## 2장에서 이용하는 데이터 파일
+/data/chap02/pulsar_stars.csv : 총 1 파일, 1.7MB<br/>
