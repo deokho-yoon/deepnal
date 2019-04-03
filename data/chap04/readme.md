@@ -5,5 +5,5 @@
 
 ## 4장에서 이용하는 데이터 파일
 /data/chap01/abalone.csv : 총 1 파일, 192KB<br/>
-/data/chap02/pulsar_stars.csv : 총 1 파일, 1.7MB
-/data/chap03/faults.csv : 총 1 파일, 298KB
+/data/chap02/pulsar_stars.csv : 총 1 파일, 1.7MB<br/>
+/data/chap03/faults.csv : 총 1 파일, 298KB<br/>
