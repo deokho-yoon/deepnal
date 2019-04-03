@@ -14,8 +14,8 @@
 <br/><br/>
 실험을 위해서는 flowers 폴더가 /data/chap05 폴더 밑에 오면 됩니다.
 
-## 이전 단원 데이터 폴더에서 가져와 이용하는 데이터 파일
-아래의 파일들도 준비되어 있어야 오류 없이 실습이 수행됩니다.<br/><br/>
-/data/chap01/abalone.csv<br/>
-/data/chap02/pulsar_stars.csv<br/>
-/data/chap03/faults.csv<br/>
+## 5장에서 이용하는 데이터 파일
+/data/chap01/abalone.csv : 총 1 파일, 192KB<br/>
+/data/chap02/pulsar_stars.csv : 총 1 파일, 1.7MB<br/>
+/data/chap03/faults.csv : 총 1 파일, 298KB<br/>
+/data/chap05/flowers/\*.jpg : 총 4326 파일, 228MB<br/>
