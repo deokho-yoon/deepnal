@@ -22,5 +22,5 @@ Train.zip 파일의 압축을 다시 풀면 Train.csv 파일과 Train 폴더가 
 이들 캐시 파일은 데이터가 저장된 /data/chap11/urban-sound 폴더에 함께 만들어집니다.
 
 ## 11장에서 이용하는 데이터 파일
-/data/chap11/Train.csv : 총 1 파일, 94KB<br/>
-/data/chap11/Train/\*.wav : 총 5345 파일, 4.0GB<br/>
+/data/chap11/urban-sound/Train.csv : 총 1 파일, 94KB<br/>
+/data/chap11/urban-sound/Train/\*.wav : 총 5345 파일, 4.0GB<br/>
