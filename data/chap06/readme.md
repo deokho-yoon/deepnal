@@ -13,4 +13,4 @@ office31 폴더 밑에는 세 개의 서브 폴더(amazon, dslr, webcam)가 만�
 <br/><br/>
 
 ## 6장에서 이용하는 데이터 파일
-/data/chap06/office31/images/\*/\*.jpg : 총 4110 파일, 83MB<br/>
+/data/chap06/office31/\*/images/\*/\*.jpg : 총 4110 파일, 83MB<br/>
