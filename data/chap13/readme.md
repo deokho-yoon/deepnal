@@ -11,6 +11,11 @@ train-labels-idx1-ubyte.gz 파일의 두 개입니다.
 두 파일을 다운받아 압축을 풀면 각각 하나의 파일만 만들어지는데 이들 두 파일을 /data/chap13/mnist 폴더에 배치하면 실험 준비가 끝납니다.
 참고로 테스트 데이터를 제공하는 다른 두 파일은 내용이 많지 않아 이용을 하지 않고 있지만 프로그램을 조금 확장한다면 함께 이용할 수 있을 것입니다.
 
+## 주의사항
+얀 교수 홈페이지에서 다운받은 파일의 압축을 풀면 파일 이름이 train-images.idx3-ubyte, train-labels.idx1-ubyte로 생성되는 경우가 있습니다.
+이런 경우 파일명을 train-images-idx3-ubyte, train-labels-idx1-ubyte로 수정해 주세요.
+
+깃허브 용량 관계상 MNIST 데이터셋은 여기 수록하지 못하며 따라서 사용자별로 각자 다운로드받아야 합니다.<br/><br/>
 ## 13장에서 이용하는 데이터 파일
 /data/chap13/mnist/train-images-idx3-ubyte : 총 1 파일, 47MB<br/>
-/data/chap13/mnist/Train/train-labels-idx1-ubyte : 총 1 파일, 6.0KB<br/>
+/data/chap13/mnist/train-labels-idx1-ubyte : 총 1 파일, 6.0KB<br/>
